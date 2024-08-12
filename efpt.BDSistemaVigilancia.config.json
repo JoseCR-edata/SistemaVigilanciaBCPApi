@@ -1,0 +1,89 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "BCPSistemaVigilanciaContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models\/BDBCPSistemaVigilancia",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "APIBCPSistemaVigilancia",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Auditoria_Cambios]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Auditoria_Error]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Auditoria_Ingreso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Grupo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Modulo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Modulo_Permiso]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Nivel_Alarma]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Permiso_Grupo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tipo_Alarma]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UsuariosConectado]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AgregarUsuarioConectado]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ModificarUsuarioConectado]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "pf3xaeq9.BCPSistemaVigilancia.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
